@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(58, 16, 58);
+    margin: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gold;
+    font-size: 16px;
+}
+table { 
+    width:100%;
+}
+img {
+    padding-left: 40px;
+}
+
+.fet {
+    font-size: 24px;
+    font-weight: bold;
+}
+
